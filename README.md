@@ -1,6 +1,6 @@
 <h1 align="center">Dayvson Vicente</h1>
 <p align="center">
-  <strong>Backend Engineer | Java � Node.js � Go</strong><br/>
+  <strong>Backend Engineer | Java | Quarkus | Python | C# | Node.js | Go</strong><br/>
   APIs robustas, arquitetura limpa e sistemas escalaveis.
 </p>
 
@@ -17,20 +17,40 @@
 
 ## Sobre mim
 
-- Foco principal em backend com `Java`, `Spring Boot`,`C#`,`Node.js`, `Python` e `Go`.
+- Foco principal em backend com `Java`, `Quarkus`, `C#`, `Node.js`, `Python` e `Go`.
 - Experiencia em arquiteturas orientadas a servicos e padroes de Clean Architecture.
-- Interesse em APIs de alta disponibilidade, filas, lambdas e integracoes.
+- Interesse em APIs de alta disponibilidade, filas, lambdas, observabilidade e integracoes.
 - Base em Timoteo - MG, Brasil.
+
+## Serverless e Lambdas
+
+- Desenvolvimento de funcoes serverless em `AWS Lambda` para fluxos de sorteio e doacao.
+- Estruturacao de handlers com foco em baixo acoplamento, testes e evolucao continua.
+- Integracao de Lambdas com APIs HTTP, filas e eventos para processamento assincrono.
+- Otimizacao de cold start com pacotes enxutos e inicializacao eficiente.
+
+## Quarkus + Java para Lambda
+
+- Uso de `Quarkus` para construir Lambdas Java com startup rapido e menor consumo de memoria.
+- Aplicacao de `Clean Architecture` no dominio e nos adaptadores serverless.
+- Interesse em build nativo com GraalVM para reduzir tempo de inicializacao.
+- Separacao clara entre regra de negocio e infraestrutura AWS.
+
+## Python e C#
+
+- `Python` para automacoes, scripts de apoio backend, integracoes e funcoes Lambda.
+- `C#` e ecossistema `.NET` para APIs corporativas, servicos e boas praticas de engenharia.
+- Foco em codigo limpo, padroes consistentes e manutencao simples em producao.
 
 ## Stack principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,go,ts,js,postgres,mysql,docker,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,go,python,cs,dotnet,ts,js,postgres,mysql,docker,aws,git,linux" />
 </p>
 
 ## Projetos em destaque
 
-- [`back_sorte_lambdas`](https://github.com/dayvsonred/back_sorte_lambdas) - Backend em Go com foco em sorteios/doacoes e funcoes serverless.
+- [`back_sorte_lambdas`](https://github.com/dayvsonred/back_sorte_lambdas) - Backend em Go com foco em sorteios, doacoes e funcoes serverless.
 - [`front_sorte_angular`](https://github.com/dayvsonred/front_sorte_angular) - Front-end Angular para plataforma de sorteios.
 - [`back_sorte_go`](https://github.com/dayvsonred/back_sorte_go) - API backend em Go para dominio de doacoes.
 - [`Node-Nest-Crud-PostgreSQL`](https://github.com/dayvsonred/Node-Nest-Crud-PostgreSQL) - CRUD com NestJS + PostgreSQL.
@@ -51,7 +71,7 @@
 
 ## Objetivo atual
 
-Construir produtos confiaveis para sorteios e doacoes, com backend limpo, observabilidade e deploy simples.
+Construir produtos confiaveis para sorteios e doacoes com backend limpo, arquitetura serverless e deploy simples.
 
 <p align="center">
   <i>"Codigo bom e codigo que continua simples quando o projeto cresce."</i>
