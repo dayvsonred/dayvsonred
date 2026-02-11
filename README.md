@@ -1,6 +1,6 @@
 <h1 align="center">Dayvson Vicente</h1>
 <p align="center">
-  <strong>Backend Engineer | Java • Node.js • Go</strong><br/>
+  <strong>Backend Engineer | Java ï¿½ Node.js ï¿½ Go</strong><br/>
   APIs robustas, arquitetura limpa e sistemas escalaveis.
 </p>
 
@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-- Foco principal em backend com `Java`, `Spring Boot`, `Node.js` e `Go`.
+- Foco principal em backend com `Java`, `Spring Boot`,`C#`,`Node.js`, `Python` e `Go`.
 - Experiencia em arquiteturas orientadas a servicos e padroes de Clean Architecture.
 - Interesse em APIs de alta disponibilidade, filas, lambdas e integracoes.
 - Base em Timoteo - MG, Brasil.
